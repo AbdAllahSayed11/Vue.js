@@ -27,4 +27,4 @@ This project was created as part of a lab assignment to demonstrate CRUD operati
 
 ## Author
 
-Abdallah
+Abdallah Sayed
