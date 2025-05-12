@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "city": "New York"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "city": "Los Angeles"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "city": "Chicago"
+    },
+    {
+      "id": "71bc",
+      "name": "Abdallah",
+      "city": "Assiut"
+    },
+    {
+      "id": "e07d",
+      "name": "asd",
+      "city": "asd"
+    }
+  ]
+}
